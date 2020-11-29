@@ -193,8 +193,8 @@ body {
 }
 
 .quiz-box .answers-indicator div {
-  height: 40px;
-  width: 40px;
+  height: 25px;
+  width: 25px;
   display: inline-block;
   background-color: #cccccc;
   border-radius: 50%;
